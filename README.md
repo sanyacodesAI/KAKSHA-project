@@ -2,7 +2,7 @@
 AI powered smart classroom web app
 
 ## Preview
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.png.png)
 
 ## Features
 - AI based learning system
