@@ -1,6 +1,9 @@
 # KAKSHA
 AI powered smart classroom web app
 
+## Preview
+![App Screenshot](screenshot.png)
+
 ## Features
 - AI based learning system
 - Interactive AI
